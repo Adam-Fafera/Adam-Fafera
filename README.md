@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Adam-Fafera/Adam-Fafera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Weź spodenki do ćpania
 
-Here are some ideas to get you started:
+> Wiem wiem lubisz drania
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+— Prof. hab. Kaz Bałagane
+
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/KYTf6sfC/Screenshot-2024-11-18-022953.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/KYTf6sfC/Screenshot-2024-11-18-022953.png">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
